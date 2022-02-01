@@ -1,0 +1,25 @@
+{
+  "name": "vidly-app",
+  "version": "1.0.0",
+  "description": "This will be my first back-end project, and I'll be developing it while I'm learning.\r It consists on a movie rental app, wich I'll be upgrading it with new stuff I learn.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaueDebus/vidly-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaueDebus/vidly-app/issues"
+  },
+  "homepage": "https://github.com/CaueDebus/vidly-app#readme"
+}
