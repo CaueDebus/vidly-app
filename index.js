@@ -4,6 +4,8 @@ const customers = require('./routes/customers');
 const express = require('express');
 const app = express();
 
+// apenas um teste para o git
+
 mongoose.connect('mongodb://localhost/vidly')
     .then(() => console.log('Connected to MongoDB...'))
     .catch(err => console.error('Could not connect to MongoDB'));
